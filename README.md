@@ -1,2 +1,2 @@
 # Arreglos_Cadenas
-7 ejercicios ( Omega.up ; Práctica de Arreglos Unidimensionales )
+7 ejercicios ( OmegaUp ; Práctica de Arreglos Unidimensionales )
